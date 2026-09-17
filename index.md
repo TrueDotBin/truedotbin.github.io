@@ -9,50 +9,18 @@ layout: default
 
 ## Languages
 
-### C#
-```csharp
-public static class Program
-{
-    public static void Main()
-    {
-        // C# example
-        Console.WriteLine("Hello, World!");
-    }
-}
-```
+1. C#
+2. Python
+3. C++
+4. GDScript
 
-### Python
-```python
-# Python example
+## Socials
 
-def main():
-    print("Hello, World!")
-
-if __name__ == "__main__":
-    main()
-```
-
-### C++ (For Geode Mods)
-```cpp
-// C++ Example
-
-#include <iostream>
-
-int main()
-{
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
-}
-```
-
-### GDScript (For Godot Games)
-```gdscript
-# GDScript Example
-
-extends Node
-
-func _ready() -> void:
-    print("Hello, World!")
-```
+| Social Name | Usage  | Link |
+|-------------|--------|------|
+| YouTube | Videos | https://www.youtube.com/@TrueDotBin |
+| Twitch | Watching/Making streams | https://www.youtube.com/@TrueDotBin   |
+| TikTok | Videos | https://www.tiktok.com/@truedotbin   |
+| Geometry Dash | geometry dashing | https://gdbrowser.com/u/TrueDotBin |
 
 [GitHub](https://github.com/TrueDotBin)
