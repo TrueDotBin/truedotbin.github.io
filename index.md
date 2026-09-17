@@ -23,20 +23,3 @@ layout: default
 | TikTok | Videos | https://www.tiktok.com/@truedotbin |
 | Geometry Dash | geometry dashing | https://gdbrowser.com/u/TrueDotBin |
 | Minecraft | minecrafting | https://namemc.com/profile/TrueDotBin |
-
-## Projects
-
-None for now
-
-## Posts
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <small>{{ post.date | date: "%b %d, %Y" }}</small>
-    </li>
-  {% endfor %}
-</ul>
-
-[GitHub](https://github.com/TrueDotBin)
