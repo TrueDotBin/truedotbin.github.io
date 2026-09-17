@@ -19,8 +19,13 @@ layout: default
 | Social Name | Usage  | Link |
 |-------------|--------|------|
 | YouTube | Videos | https://www.youtube.com/@TrueDotBin |
-| Twitch | Watching/Making streams | https://www.youtube.com/@TrueDotBin   |
-| TikTok | Videos | https://www.tiktok.com/@truedotbin   |
+| Twitch | Watching/Making streams | https://www.twitch.tv/truedotbin   |
+| TikTok | Videos | https://www.tiktok.com/@truedotbin |
 | Geometry Dash | geometry dashing | https://gdbrowser.com/u/TrueDotBin |
+| Minecraft | minecrafting | https://namemc.com/profile/TrueDotBin |
+
+## Projects
+
+None for now
 
 [GitHub](https://github.com/TrueDotBin)
