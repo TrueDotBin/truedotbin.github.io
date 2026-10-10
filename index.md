@@ -1,6 +1,5 @@
 ---
-layout: home
-
+layout: default
 ---
 
 <div align="center">
