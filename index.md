@@ -15,13 +15,19 @@ layout: home
 3. C++
 4. GDScript
 
+## Projects
+
+| Project | Description                  | Link                                |
+| ------- | ---------------------------- | ----------------------------------- |
+| Katro   | A kernel made in Cosmos gen3 | https://github.com/TrueDotBin/Katro |
+
 ## Socials
 
-| Social Name | Usage  | Link |
-|-------------|--------|------|
-| YouTube | Videos | https://www.youtube.com/@TrueDotBin |
-| Twitch | Watching/Making streams | https://www.twitch.tv/truedotbin   |
-| TikTok | Videos | https://www.tiktok.com/@truedotbin |
-| Geometry Dash | geometry dashing | https://gdbrowser.com/u/TrueDotBin |
-| Minecraft | minecrafting | https://namemc.com/profile/TrueDotBin |
-| GitHub | Development | https://github.com/TrueDotBin |
+| Social Name   | Usage                   | Link                                  |
+| ------------- | ----------------------- | ------------------------------------- |
+| YouTube       | Videos                  | https://www.youtube.com/@TrueDotBin   |
+| Twitch        | Watching/Making streams | https://www.twitch.tv/truedotbin      |
+| TikTok        | Videos                  | https://www.tiktok.com/@truedotbin    |
+| Geometry Dash | geometry dashing        | https://gdbrowser.com/u/TrueDotBin    |
+| Minecraft     | minecrafting            | https://namemc.com/profile/TrueDotBin |
+| GitHub        | Development             | https://github.com/TrueDotBin         |
