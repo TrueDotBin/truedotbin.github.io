@@ -5,4 +5,5 @@ plugins:
   - jekyll-remote-theme
 
 title: true.bin
+author: true.bin
 description: I do stuff.
